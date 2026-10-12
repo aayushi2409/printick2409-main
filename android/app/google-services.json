@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "634138792670",
+    "project_id": "printick2409",
+    "storage_bucket": "printick2409.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634138792670:android:54fd1d7c23590b0be6284f",
+        "android_client_info": {
+          "package_name": "com.example.printick"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZgA2OYrj08eiz6rLrT86g_7OlygTIedE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
